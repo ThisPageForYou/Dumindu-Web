@@ -1,2 +1,2 @@
 # Dumindu-Web
-For Download Neo WhatsApp
+This page is where to download the Neo WhatsApp application
